@@ -1,5 +1,5 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="" version="132">
-  <name>Idan - At - Women Clothing</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="" version="9">
+  <name>CAF Showcase</name>
   <description>Tal is GeverGever</description>
   <author href="http://codletech.net" email="tallevi12@gmail.com">Tal Levi</author>
   <preference name="permissions" value="none"/>
