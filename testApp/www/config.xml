@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="" version="159">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="" version="160">
   <name>Idan - At - Women Clothing</name>
   <description>Tal is GeverGever</description>
   <author href="http://codletech.net" email="tallevi12@gmail.com">Tal Levi</author>
@@ -16,7 +16,6 @@
   <preference name="android-installLocation" value="auto"/>
   <gap:plugin name="org.apache.cordova.device"/>
   <gap:plugin name="org.apache.cordova.splashscreen"/>
-  <gap:plugin name="nl.x-services.plugins.socialsharing"/>
   <icon src="icon.png"/>
   <icon src="res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:density="ldpi"/>
   <icon src="res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:density="mdpi"/>
