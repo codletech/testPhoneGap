@@ -9,5 +9,5 @@ var CSettings = {
       initialize: function(){
           CSettings.set('appID','5449072330b94e0200ff4123');
       }
-  }
-  CSettings.initialize();
+    }
+    CSettings.initialize();
