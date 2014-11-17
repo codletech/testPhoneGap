@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="net.codletech.apps.at" version="204">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="net.codletech.apps.at" version="207">
   <name>את - מירית הרשקוביץ</name>
   <description></description>
   <author href="https://www.facebook.com/atmirit" email="atmirit@gmail.com">Dvir Cohen</author>
@@ -18,6 +18,7 @@
   <gap:plugin name="org.apache.cordova.splashscreen"/>
   <gap:plugin name="nl.madebymark.share"/>
   <gap:plugin name="com.pushapps.phonegap"/>
+  <gap:plugin name="com.ohh2ahh.plugins.appavailability"/>
   <icon src="icon.png"/>
   <icon src="res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:density="ldpi"/>
   <icon src="res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:density="mdpi"/>
