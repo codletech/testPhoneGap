@@ -1,7 +1,7 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="" version="183">
-  <name>Idan - At - Women Clothing</name>
-  <description>Tal is GeverGever</description>
-  <author href="http://codletech.net" email="tallevi12@gmail.com">Tal Levi</author>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="net.codletech.apps.at" version="199">
+  <name>את - מירית הרשקוביץ</name>
+  <description></description>
+  <author href="https://www.facebook.com/atmirit" email="atmirit@gmail.com">Dvir Cohen</author>
   <preference name="permissions" value="none"/>
   <preference name="phonegap-version" value="3.6.3"/>
   <preference name="orientation" value="default"/>
@@ -16,6 +16,8 @@
   <preference name="android-installLocation" value="auto"/>
   <gap:plugin name="org.apache.cordova.device"/>
   <gap:plugin name="org.apache.cordova.splashscreen"/>
+  <gap:plugin name="nl.madebymark.share"/>
+  <gap:plugin name="com.pushapps.phonegap"/>
   <icon src="icon.png"/>
   <icon src="res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:density="ldpi"/>
   <icon src="res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:density="mdpi"/>
