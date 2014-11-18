@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="net.codletech.apps.at" version="210">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="net.codletech.apps.at" version="211">
   <name>את - מירית הרשקוביץ</name>
   <description></description>
   <author href="https://www.facebook.com/atmirit" email="atmirit@gmail.com">Dvir Cohen</author>
@@ -16,7 +16,7 @@
   <preference name="android-installLocation" value="auto"/>
   <gap:plugin name="org.apache.cordova.device"/>
   <gap:plugin name="org.apache.cordova.splashscreen"/>
-  <gap:plugin name="nl.madebymark.share"/>
+  <gap:plugin name="nl.x-services.plugins.socialsharing"/>
   <gap:plugin name="com.pushapps.phonegap"/>
   <gap:plugin name="com.ohh2ahh.plugins.appavailability"/>
   <gap:plugin name="de.appplant.cordova.plugin.email-composer"/>
