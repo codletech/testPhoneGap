@@ -1,5 +1,5 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="net.codletech.apps.at" version="12">
-  <name>Dummy</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="net.codletech.apps.at" version="209">
+  <name>את - מירית הרשקוביץ</name>
   <description></description>
   <author href="https://www.facebook.com/atmirit" email="atmirit@gmail.com">Dvir Cohen</author>
   <preference name="permissions" value="none"/>
