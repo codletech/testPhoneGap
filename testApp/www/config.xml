@@ -1,25 +1,19 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="net.codletech.apps.at" version="228">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="net.codletech.apps.at" version="233">
   <name>את - מירית הרשקוביץ</name>
   <description></description>
   <author href="https://www.facebook.com/atmirit" email="atmirit@gmail.com">Dvir Cohen</author>
-  <preference name="permissions" value="none"/>
-  <preference name="phonegap-version" value="3.6.3"/>
-  <preference name="orientation" value="default"/>
-  <preference name="target-device" value="universal"/>
-  <preference name="fullscreen" value="false"/>
-  <preference name="prerendered-icon" value="true"/>
-  <preference name="ios-statusbarstyle" value="black-opaque"/>
-  <preference name="detect-data-types" value="true"/>
-  <preference name="exit-on-suspend" value="false"/>
-  <preference name="disable-cursor" value="false"/>
-  <preference name="android-minSdkVersion" value="7"/>
-  <preference name="android-installLocation" value="auto"/>
+  <preference name="disallowOverscroll" value="true"/>
+  <preference name="DisallowOverscroll" value="true"/>
+  <preference name="webviewbounce" value="false"/>
+  <preference name="webviewbounce" value="false"/>
   <gap:plugin name="org.apache.cordova.device"/>
   <gap:plugin name="org.apache.cordova.splashscreen"/>
   <gap:plugin name="nl.x-services.plugins.socialsharing"/>
   <gap:plugin name="com.pushapps.phonegap"/>
   <gap:plugin name="com.ohh2ahh.plugins.appavailability"/>
   <gap:plugin name="de.appplant.cordova.plugin.email-composer"/>
+  <gap:plugin name="org.apache.cordova.inappbrowser"/>
+  <gap:plugin name="com.phonegap.plugin.statusbar"/>
   <icon src="icon.png"/>
   <icon src="res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:density="ldpi"/>
   <icon src="res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:density="mdpi"/>
