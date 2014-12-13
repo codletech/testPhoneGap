@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="net.codletech.apps.tester" version="38">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="net.codletech.apps.tester" version="164">
   <name>Tester App</name>
   <description></description>
   <author href="https://www.facebook.com/atmirit" email="atmirit@gmail.com">Dvir Cohen</author>
@@ -13,6 +13,7 @@
   <gap:plugin name="de.appplant.cordova.plugin.email-composer"/>
   <gap:plugin name="org.apache.cordova.inappbrowser"/>
   <gap:plugin name="com.phonegap.plugin.statusbar"/>
+  <gap:plugin name="tr.bel.mamak.sms_plagin"/>
   <icon src="icon.png"/>
   <icon src="res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:density="ldpi"/>
   <icon src="res/icon/android/icon-48-mdpi.png" gap:platform="android" gap:density="mdpi"/>
