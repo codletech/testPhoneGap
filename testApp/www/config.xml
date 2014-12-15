@@ -5,6 +5,7 @@
   <preference name="disallowOverscroll" value="true"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="webviewbounce" value="false"/>
+  <preference name="permissions" value="none"/>
   <gap:plugin name="org.apache.cordova.device"/>
   <gap:plugin name="org.apache.cordova.splashscreen"/>
   <gap:plugin name="org.apache.cordova.inappbrowser"/>
