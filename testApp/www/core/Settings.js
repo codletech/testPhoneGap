@@ -7,7 +7,7 @@ var CSettings = {
           return CSettings.settings[key];
       },
       initialize: function(){
-          CSettings.set('appID','548085bff3c4180200f93cf2');
+          CSettings.set('appID','5489587e5de19b0200ff1703');
       }
     }
     CSettings.initialize();
