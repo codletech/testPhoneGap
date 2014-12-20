@@ -1,4 +1,4 @@
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="net.codletech.apps.arnevo" version="4">
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.codletech.arnevo" version="1.0">
   <name>arnevo</name>
   <description></description>
   <author href="https://www.codletech.net" email="codletech@gmail.com">Codletech</author>
